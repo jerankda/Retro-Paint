@@ -24,6 +24,7 @@ A nostalgic recreation of the classic Microsoft Paint application with authentic
 - **Clear Canvas** - Reset to blank white canvas
 
 
+![Alt text](https://cdn.discordapp.com/attachments/824763081774071831/1380022316125126746/Screenshot_2025-06-05_at_05.10.47.png?ex=68425d6f&is=68410bef&hm=4c4504c6f1eea31949835daf900440c654bcba9c547e5adf8c84479404520d6e&)
 
 
 
