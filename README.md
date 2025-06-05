@@ -70,7 +70,4 @@ A nostalgic recreation of the classic Microsoft Paint application with authentic
 
 MIT License - feel free to use this project however you'd like!
 
----
 
-
-Perfect for GitHub - informative but not overwhelming!
